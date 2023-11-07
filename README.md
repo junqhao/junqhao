@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm junqhao</h1>
+<h1 align="center">Hi 👋, I'm Junqing Hao</h1>
 <h3 align="center">A passionate iOS developer from China</h3>
 
 <h3 align="left">Bio:</h3>
