@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [junqhao.cc](junqhao.cc)
 
-- 📫 How to reach me **junqing_hao@qq.com**
+- 📫 How to reach me **junqhao@qq.com**
 
 - ⚡ Hobbies **🎞️ 🎧 🍳 🏀 🎱 🐾**
 
